@@ -29,5 +29,9 @@ Here is the dataset used in the project: [Dataset Link](sample-sales-data.csv)]
 [Data Model_Sales_Distribution Image](Sales_Distribution.png)
 
 ## Scripts for Project
-1. [extract.py](https://github.com/your_username/repository_name/blob/main/scripts/extract.py) - This script extracts data from the source and preprocesses it for analysis.
+1. api_server.py: Handles API server setup, CSV upload, data processing, and SQL Server integration. [link](api_server.py)
+2. data_import.py: Downloads the dataset from Kaggle and stores it in SQL Server. [link](data_import.py)
+3. data_preprocessing.py: Cleans the data by removing duplicates and handling missing values. [link](data_preprocessing.py)
+4. eda_sales_data.py: Performs exploratory data analysis (EDA) to visualize the data and analyze trends. [link](eda_sales_data.py)
+5. table_creatae.sql: Ensures data integrity by checking for duplicates and missing values. [link](table_create.sql)
 
