@@ -19,3 +19,15 @@ The project also includes data visualization and may involve saving the data to 
 ## Contribute to this project here:
 [Mage.AI](http://mage.ai)
 
+## Data Set Used
+A simple set of sales data from various regions and products. The dataset is used for performing data analysis and building machine learning models.
+Here is the dataset used in the project: [Dataset Link](sample-sales-data.csv)]
+
+**Original Data Source**: [sample-sales-data](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data)
+
+## Data Model
+[Data Model_Sales_Distribution Image](Sales_Distribution.png)
+
+## Scripts for Project
+1. [extract.py](https://github.com/your_username/repository_name/blob/main/scripts/extract.py) - This script extracts data from the source and preprocesses it for analysis.
+
