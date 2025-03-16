@@ -1,7 +1,7 @@
 # sales_data_project
 Sales Data Analysis Project
 
-##Introduction
+## Introduction
 This project involves the exploration and analysis of sales data using Python and various data science techniques. 
 The goal is to clean, process, and analyze sales data, perform exploratory data analysis (EDA), and gain insights that can help improve decision-making. 
 The project also includes data visualization and may involve saving the data to a database (SQL) for further analysis.
