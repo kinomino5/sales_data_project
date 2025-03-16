@@ -9,15 +9,6 @@ The project also includes data visualization and may involve saving the data to 
 ## Technology Used
 1. Programming Language - Python
 2. Scripting Language - SQL
-3. Google Cloud Platform
-    - BigQuery
-    - Cloud Storage
-    - Looker Studio
-    - Compute Instances
-4. [Mage.AI](http://Mage.AI) (Modern Data Pipeline Tool)
-
-## Contribute to this project here:
-[Mage.AI](http://mage.ai)
 
 ## Data Set Used
 A simple set of sales data from various regions and products. The dataset is used for performing data analysis and building machine learning models.
